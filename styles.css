@@ -51,7 +51,7 @@ img {
 
 .sidebar-wrapper .tagline {
   color: HSLA(0, 0%, 100%, 0.6);
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   margin-top: 0;
   margin-bottom: 0;
@@ -262,10 +262,10 @@ section {
 }
 
 .size {
-  width: 20px;
+  gap: 7px;
   display: flex;
   & img {
-    width: 100%;
+    width: 20px;
   }
 }
 
