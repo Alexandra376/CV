@@ -262,10 +262,10 @@ section {
 }
 
 .size {
-  gap: 7px;
+  gap: 5px;
   display: flex;
   & img {
-    width: 20px;
+    height: auto;
   }
 }
 
